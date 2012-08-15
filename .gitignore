@@ -14,10 +14,5 @@
 /log/*.log
 /tmp
 
-<<<<<<< HEAD
 # Ignore .DS_Store
 .DS_Store
-=======
-# .DS_Store
-.DS_Store
->>>>>>> Ignore OSX system file
